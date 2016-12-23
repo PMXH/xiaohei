@@ -1,2 +1,1 @@
-helloword1
-helloword2
+helloword
